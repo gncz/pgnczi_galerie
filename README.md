@@ -5,8 +5,6 @@
 * Original site: https://thedevslot.github.io/WhatATheme/)
 * Fork the [Repository](https://github.com/thedevslot/WhatATheme/)
 
-#### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
-
 ### Content Credits :green_heart:
 * [Front Background](https://images.pexels.com/photos/210243/pexels-photo-210243.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) used in the Home sections.
 * [Font Awesome](https://fontawesome.com/)
